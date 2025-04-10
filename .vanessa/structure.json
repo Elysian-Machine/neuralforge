@@ -1,0 +1,12 @@
+{
+  "directories": [
+    "/src",
+    "/neural-core",
+    "/vanessa",
+    "/agents",
+    "/docs",
+    ".github/workflows"
+  ],
+  "descricao": "Strutura inicial da NeuralForge. Esse arquivo servirë como pilar de desenvolvimento da arkitetura, cod-vasela, documentaciço e agentes.",
+  "modulos": []
+}
